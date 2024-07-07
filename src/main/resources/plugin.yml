@@ -1,0 +1,4 @@
+name: PickupFilter
+version: '${project.version}'
+main: cdn.me.pickupfilter.PickupFilter
+api-version: '1.20'
